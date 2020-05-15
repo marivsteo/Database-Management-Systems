@@ -1,0 +1,9 @@
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\bin\Debug\lab1DBMS.exe.config
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\bin\Debug\lab1DBMS.exe
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\bin\Debug\lab1DBMS.pdb
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.Form1.resources
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.Properties.Resources.resources
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.exe
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab1DBMS\lab1DBMS\obj\Debug\lab1DBMS.pdb

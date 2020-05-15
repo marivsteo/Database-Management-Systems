@@ -1,0 +1,20 @@
+USE testdb;
+GO
+
+SET TRANSACTION ISOLATION LEVEL REPEATABLE READ;
+BEGIN TRAN;
+SElECT * FROM Table1;
+WAITFOR DELAY '00:00:05';
+SELECT * FROM Table1;
+COMMIT;
+
+DELETE FROM Table1 WHERE name = 'sometestname' AND somestr = 'someteststr';
+
+--SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+--BEGIN TRAN;
+--SElECT * FROM Table1;
+--WAITFOR DELAY '00:00:05';
+--SELECT * FROM Table1;
+--COMMIT;
+
+--DELETE FROM Table1 WHERE name = 'sometestname' AND somestr = 'someteststr';

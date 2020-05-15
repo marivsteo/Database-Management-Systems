@@ -1,0 +1,9 @@
+USE testdb
+GO
+
+BEGIN TRAN
+UPDATE Table2 SET someint = someint + 2 WHERE id = 1
+
+WAITFOR DELAY '00:00:05';
+
+COMMIT TRAN

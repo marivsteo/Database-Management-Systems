@@ -1,0 +1,9 @@
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\bin\Debug\lab2DBMS.exe.config
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\bin\Debug\lab2DBMS.exe
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\bin\Debug\lab2DBMS.pdb
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\obj\Debug\lab2DBMS.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\obj\Debug\lab2DBMS.Properties.Resources.resources
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\obj\Debug\lab2DBMS.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\obj\Debug\lab2DBMS.exe
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\obj\Debug\lab2DBMS.pdb
+C:\Users\Marius\Desktop\university 2\SEM2\DBMSs\LABS\lab2DBMS\lab2DBMS\obj\Debug\lab2DBMS.Form1.resources
